@@ -1,0 +1,11 @@
+{
+  "l1_messages": 900,
+  "l2_messages": 180,
+  "total_messages_processed": 1080,
+  "l1_tasks_events": 409,
+  "final_tasks_events": 426,
+  "l2_priority_decisions": 145,
+  "related_groups": 64,
+  "privacy_records": 180,
+  "note": "Final outputs contain masked/safe text only; raw datasets are excluded from version control."
+}

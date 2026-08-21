@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: message-intelligence-l2
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app.app:app --bind 0.0.0.0:$PORT

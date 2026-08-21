@@ -1,0 +1,1 @@
+{% extends "base.html" %}{% block content %}<h1>L2 messages</h1><table><tr><th>ID</th><th>Timestamp</th><th>Sender</th><th>Message</th></tr>{% for m in messages %}<tr><td>{{m.message_id}}</td><td>{{m.timestamp}}</td><td>{{m.sender}}</td><td>{{m.message}}</td></tr>{% endfor %}</table>{% endblock %}

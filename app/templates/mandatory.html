@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+<p class="muted">The 15 mandatory message IDs required in the video demonstration.</p>
+{% for it in items %}
+<div class="card">
+  <strong>{{ it.message_id }}</strong>
+  {% if it.classification %}
+  &nbsp;<span class="pill cat-{{ it.classification.category }}">{{ it.classification.category }}</span>
+  <span class="muted">({{ '%.2f'|format(it.classification.confidence) }} confidence)</span>
+  <p class="muted">{{ it.classification.reason }}</p>
+  {% endif %}
+  {% if it.extracted_items %}
+    <div><strong>Extracted:</strong>
+    {% for e in it.extracted_items %}
+      <div>{{ e.item_id }} — {{ e.title }} ({{ e.date or e.deadline or "no date" }})</div>
+    {% endfor %}
+    </div>
+  {% endif %}
+  {% if it.sensitive_findings %}
+    <div><strong>Sensitive:</strong>
+    {% for s in it.sensitive_findings %}
+      <div>{{ s.sensitivity_type }} — {{ s.risk }} — {{ s.masked_text }}</div>
+    {% endfor %}
+    </div>
+  {% endif %}
+</div>
+{% endfor %}
+{% endblock %}

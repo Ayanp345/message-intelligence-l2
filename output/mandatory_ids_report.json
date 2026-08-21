@@ -1,0 +1,253 @@
+[
+  {
+    "message_id": "MSG_0002",
+    "classification": {
+      "message_id": "MSG_0002",
+      "category": "action_required",
+      "confidence": 0.9,
+      "reason": "Message asks the recipient to do something (request, reminder, or deadline phrasing)."
+    },
+    "extracted_items": [
+      {
+        "item_id": "TASK_001",
+        "type": "task",
+        "title": "Review privacy checklist",
+        "description": "Can you review the privacy checklist before 2026-09-09?",
+        "deadline": "2026-09-09",
+        "time": null,
+        "person": null,
+        "priority": "low",
+        "source_message_id": "MSG_0002",
+        "note": null
+      }
+    ],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0007",
+    "classification": {
+      "message_id": "MSG_0007",
+      "category": "action_required",
+      "confidence": 0.9,
+      "reason": "Message asks the recipient to do something (request, reminder, or deadline phrasing)."
+    },
+    "extracted_items": [
+      {
+        "item_id": "TASK_002",
+        "type": "task",
+        "title": "Reply to client email",
+        "description": "For today: Please reply to the client email by 2026-09-04.",
+        "deadline": "2026-09-04",
+        "time": null,
+        "person": null,
+        "priority": "high",
+        "source_message_id": "MSG_0007",
+        "note": null
+      }
+    ],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0001",
+    "classification": {
+      "message_id": "MSG_0001",
+      "category": "meeting_or_event",
+      "confidence": 0.93,
+      "reason": "Message matches a known scheduling template (calendar update / reminder / invite / 'scheduled for')."
+    },
+    "extracted_items": [
+      {
+        "item_id": "EVENT_001",
+        "type": "event",
+        "title": "Family dinner",
+        "description": "For today: Calendar update: family dinner, 2026-09-19 at 10:00, the library.",
+        "date": "2026-09-19",
+        "time": "10:00",
+        "location": "the library",
+        "person": null,
+        "priority": "low",
+        "source_message_id": "MSG_0001",
+        "note": null
+      }
+    ],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0003",
+    "classification": {
+      "message_id": "MSG_0003",
+      "category": "meeting_or_event",
+      "confidence": 0.93,
+      "reason": "Message matches a known scheduling template (calendar update / reminder / invite / 'scheduled for')."
+    },
+    "extracted_items": [
+      {
+        "item_id": "EVENT_002",
+        "type": "event",
+        "title": "Mentor catch-up",
+        "description": "FYI: Reminder: mentor catch-up happens on 2026-09-16 at 11:00 in the city clinic.",
+        "date": "2026-09-16",
+        "time": "11:00",
+        "location": "the city clinic",
+        "person": null,
+        "priority": "low",
+        "source_message_id": "MSG_0003",
+        "note": null
+      }
+    ],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0009",
+    "classification": {
+      "message_id": "MSG_0009",
+      "category": "personal_information",
+      "confidence": 0.88,
+      "reason": "Message is a self-reported personal preference/profile statement (not a secret/credential)."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0016",
+    "classification": {
+      "message_id": "MSG_0016",
+      "category": "personal_information",
+      "confidence": 0.88,
+      "reason": "Message is a self-reported personal preference/profile statement (not a secret/credential)."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0004",
+    "classification": {
+      "message_id": "MSG_0004",
+      "category": "general_information",
+      "confidence": 0.7,
+      "reason": "Message is a plain factual/status statement with no request, schedule, secret, or personal-preference marker detected."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0006",
+    "classification": {
+      "message_id": "MSG_0006",
+      "category": "general_information",
+      "confidence": 0.7,
+      "reason": "Message is a plain factual/status statement with no request, schedule, secret, or personal-preference marker detected."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0014",
+    "classification": {
+      "message_id": "MSG_0014",
+      "category": "promotional",
+      "confidence": 0.97,
+      "reason": "Message contains marketing language and/or a discount code ('Use code ...') typical of a promotional blast."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0015",
+    "classification": {
+      "message_id": "MSG_0015",
+      "category": "promotional",
+      "confidence": 0.97,
+      "reason": "Message contains marketing language and/or a discount code ('Use code ...') typical of a promotional blast."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0005",
+    "classification": {
+      "message_id": "MSG_0005",
+      "category": "sensitive_information",
+      "confidence": 0.95,
+      "reason": "Message contains sensitive data matching pattern(s): private_address."
+    },
+    "extracted_items": [],
+    "sensitive_findings": [
+      {
+        "message_id": "MSG_0005",
+        "sensitivity_type": "private_address",
+        "risk": "medium",
+        "masked_text": "Hi, My home address is ********.",
+        "recommended_action": "ask_for_confirmation",
+        "reason": "Message contains a private home address."
+      }
+    ]
+  },
+  {
+    "message_id": "MSG_0013",
+    "classification": {
+      "message_id": "MSG_0013",
+      "category": "sensitive_information",
+      "confidence": 0.95,
+      "reason": "Message contains sensitive data matching pattern(s): bank_card_number."
+    },
+    "extracted_items": [],
+    "sensitive_findings": [
+      {
+        "message_id": "MSG_0013",
+        "sensitivity_type": "bank_card_number",
+        "risk": "high",
+        "masked_text": "One more thing: My card number is ********.",
+        "recommended_action": "do_not_store",
+        "reason": "Message contains what appears to be a payment card number."
+      }
+    ]
+  },
+  {
+    "message_id": "MSG_0012",
+    "classification": {
+      "message_id": "MSG_0012",
+      "category": "general_information",
+      "confidence": 0.7,
+      "reason": "Message is a plain factual/status statement with no request, schedule, secret, or personal-preference marker detected."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0024",
+    "classification": {
+      "message_id": "MSG_0024",
+      "category": "general_information",
+      "confidence": 0.7,
+      "reason": "Message is a plain factual/status statement with no request, schedule, secret, or personal-preference marker detected."
+    },
+    "extracted_items": [],
+    "sensitive_findings": []
+  },
+  {
+    "message_id": "MSG_0037",
+    "classification": {
+      "message_id": "MSG_0037",
+      "category": "meeting_or_event",
+      "confidence": 0.93,
+      "reason": "Message matches a known scheduling template (calendar update / reminder / invite / 'scheduled for')."
+    },
+    "extracted_items": [
+      {
+        "item_id": "EVENT_007",
+        "type": "event",
+        "title": "Review",
+        "description": "One more thing: The review could be Friday afternoon.",
+        "date": null,
+        "time": null,
+        "location": null,
+        "person": null,
+        "priority": "unresolved",
+        "source_message_id": "MSG_0037",
+        "note": "No concrete date given in the message (vague/relative phrase) - left null rather than guessed."
+      }
+    ],
+    "sensitive_findings": []
+  }
+]

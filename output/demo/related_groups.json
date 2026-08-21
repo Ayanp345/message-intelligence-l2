@@ -1,0 +1,1772 @@
+[
+  {
+    "group_id": "GROUP_001",
+    "title": "Family dinner",
+    "related_message_ids": [
+      "MSG_0001",
+      "MSG_0043",
+      "MSG_0275",
+      "MSG_0435",
+      "MSG_0479",
+      "MSG_0603",
+      "MSG_0646",
+      "MSG_0697",
+      "MSG_0797",
+      "MSG_0845"
+    ],
+    "related_task_event_ids": [
+      "EVENT_001",
+      "EVENT_009",
+      "EVENT_054",
+      "EVENT_082",
+      "EVENT_091",
+      "EVENT_109",
+      "EVENT_121",
+      "EVENT_129",
+      "EVENT_143",
+      "EVENT_155"
+    ],
+    "summary": "The subject first appears as: For today: Calendar update: family dinner, 2026-09-19 at 10:00, the library. Latest explicit date: 2026-09-09. Latest update: Just checking\u2014Calendar update: family dinner, 2026-09-09 at 16:00, the library.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-09",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_002",
+    "title": "Review privacy checklist",
+    "related_message_ids": [
+      "MSG_0002",
+      "MSG_0058",
+      "MSG_0215",
+      "MSG_0481",
+      "MSG_0487",
+      "MSG_0569",
+      "MSG_0578",
+      "MSG_0621",
+      "MSG_0653",
+      "MSG_0893",
+      "MSG_0901",
+      "MSG_0915",
+      "MSG_0921",
+      "MSG_0980"
+    ],
+    "related_task_event_ids": [
+      "TASK_001",
+      "TASK_017",
+      "TASK_057",
+      "TASK_123",
+      "TASK_127",
+      "TASK_156",
+      "TASK_159",
+      "TASK_171",
+      "TASK_180",
+      "TASK_238"
+    ],
+    "summary": "The subject first appears as: Can you review the privacy checklist before 2026-09-09? Latest state: In progress. Latest explicit date: 2026-09-30. Latest update: Please note that review the privacy checklist is due on 2026-09-30, although the earlier message listed another date.",
+    "status": "In progress",
+    "latest_deadline": "2026-09-30",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_003",
+    "title": "Mentor catch-up",
+    "related_message_ids": [
+      "MSG_0003",
+      "MSG_0122",
+      "MSG_0124",
+      "MSG_0135",
+      "MSG_0249",
+      "MSG_0294",
+      "MSG_0488",
+      "MSG_0719",
+      "MSG_0861",
+      "MSG_0866",
+      "MSG_0952",
+      "MSG_0969"
+    ],
+    "related_task_event_ids": [
+      "EVENT_002",
+      "EVENT_022",
+      "EVENT_024",
+      "EVENT_029",
+      "EVENT_049",
+      "EVENT_058",
+      "EVENT_093",
+      "EVENT_133",
+      "EVENT_159",
+      "EVENT_160"
+    ],
+    "summary": "The subject first appears as: FYI: Reminder: mentor catch-up happens on 2026-09-16 at 11:00 in the city clinic. Latest state: Rescheduled. Latest explicit date: 2026-10-05. Latest update: The mentor catch-up has been moved to 2026-10-05 at 14:00. Please use the new schedule.",
+    "status": "Rescheduled",
+    "latest_deadline": "2026-10-05",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_004",
+    "title": "Reply to client email",
+    "related_message_ids": [
+      "MSG_0007",
+      "MSG_0287",
+      "MSG_0301",
+      "MSG_0365",
+      "MSG_0366",
+      "MSG_0418",
+      "MSG_0451",
+      "MSG_0779",
+      "MSG_0784",
+      "MSG_0853",
+      "MSG_0902",
+      "MSG_0922",
+      "MSG_0994",
+      "MSG_0997",
+      "MSG_1009",
+      "MSG_1012"
+    ],
+    "related_task_event_ids": [
+      "TASK_002",
+      "TASK_074",
+      "TASK_077",
+      "TASK_095",
+      "TASK_096",
+      "TASK_111",
+      "TASK_116",
+      "TASK_209",
+      "TASK_212",
+      "TASK_228"
+    ],
+    "summary": "The subject first appears as: For today: Please reply to the client email by 2026-09-04. Latest state: Completed. Latest explicit date: 2026-09-10. Latest update: Follow-up: please check the latest status of reply to the client email.",
+    "status": "Completed",
+    "latest_deadline": "2026-09-10",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_005",
+    "title": "Pay the electricity bill",
+    "related_message_ids": [
+      "MSG_0010",
+      "MSG_0265",
+      "MSG_0339",
+      "MSG_0536",
+      "MSG_0614",
+      "MSG_0620",
+      "MSG_0667",
+      "MSG_0743",
+      "MSG_0754",
+      "MSG_0809",
+      "MSG_0903",
+      "MSG_0923",
+      "MSG_0990"
+    ],
+    "related_task_event_ids": [
+      "TASK_003",
+      "TASK_070",
+      "TASK_089",
+      "TASK_143",
+      "TASK_166",
+      "TASK_170",
+      "TASK_187",
+      "TASK_202",
+      "TASK_203",
+      "TASK_216"
+    ],
+    "summary": "The subject first appears as: Can you help? Don't forget to pay the electricity bill; deadline is 2026-09-09. Latest state: In progress. Latest explicit date: 2026-09-28. Latest update: Please note that pay the electricity bill is due on 2026-09-28, although the earlier message listed another date.",
+    "status": "In progress",
+    "latest_deadline": "2026-09-28",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_006",
+    "title": "Internship orientation",
+    "related_message_ids": [
+      "MSG_0011",
+      "MSG_0034",
+      "MSG_0222",
+      "MSG_0255",
+      "MSG_0378",
+      "MSG_0430",
+      "MSG_0660",
+      "MSG_0683",
+      "MSG_0841",
+      "MSG_0847",
+      "MSG_0953",
+      "MSG_0955",
+      "DEMO_007",
+      "DEMO_009",
+      "DEMO_017"
+    ],
+    "related_task_event_ids": [
+      "EVENT_003",
+      "EVENT_005",
+      "EVENT_046",
+      "EVENT_050",
+      "EVENT_072",
+      "EVENT_081",
+      "EVENT_122",
+      "EVENT_127",
+      "EVENT_154",
+      "EVENT_156"
+    ],
+    "summary": "The subject first appears as: Just checking\u2014Please join the internship orientation on 2026-09-18, 13:00 at Conference Room 2. Latest state: Unclear. Latest explicit date: 2026-10-07. Latest update: We may move the internship orientation; I will confirm the schedule later.",
+    "status": "Unclear",
+    "latest_deadline": "2026-10-07",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_007",
+    "title": "Renew the library book",
+    "related_message_ids": [
+      "MSG_0017",
+      "MSG_0063",
+      "MSG_0072",
+      "MSG_0083",
+      "MSG_0178",
+      "MSG_0232",
+      "MSG_0515",
+      "MSG_0553",
+      "MSG_0638",
+      "MSG_0740",
+      "MSG_0904",
+      "MSG_0917",
+      "MSG_0919",
+      "MSG_0920",
+      "MSG_0924",
+      "MSG_0975",
+      "MSG_0986"
+    ],
+    "related_task_event_ids": [
+      "TASK_004",
+      "TASK_019",
+      "TASK_021",
+      "TASK_022",
+      "TASK_050",
+      "TASK_064",
+      "TASK_135",
+      "TASK_149",
+      "TASK_176",
+      "TASK_201"
+    ],
+    "summary": "The subject first appears as: Can you help? I need you to renew the library book by 2026-09-08. Latest state: In progress. Latest explicit date: 2026-09-30. Latest update: Please note that renew the library book is due on 2026-09-30, although the earlier message listed another date.",
+    "status": "In progress",
+    "latest_deadline": "2026-09-30",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_008",
+    "title": "Review the model results",
+    "related_message_ids": [
+      "MSG_0019",
+      "MSG_0111",
+      "MSG_0173",
+      "MSG_0175",
+      "MSG_0306",
+      "MSG_0425",
+      "MSG_0467",
+      "MSG_0537",
+      "MSG_0783",
+      "MSG_0883",
+      "MSG_0905",
+      "MSG_0925",
+      "MSG_0935",
+      "MSG_0973",
+      "MSG_0974"
+    ],
+    "related_task_event_ids": [
+      "TASK_005",
+      "TASK_028",
+      "TASK_048",
+      "TASK_049",
+      "TASK_078",
+      "TASK_114",
+      "TASK_119",
+      "TASK_144",
+      "TASK_211",
+      "TASK_235"
+    ],
+    "summary": "The subject first appears as: Can you help? I need you to review the model results by 2026-09-03. Latest state: Completed. Latest explicit date: 2026-09-30. Latest update: Please note that review the model results is due on 2026-09-30, although the earlier message listed another date.",
+    "status": "Completed",
+    "latest_deadline": "2026-09-30",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_009",
+    "title": "Team stand-up",
+    "related_message_ids": [
+      "MSG_0023",
+      "MSG_0129",
+      "MSG_0209",
+      "MSG_0458",
+      "MSG_0484",
+      "MSG_0584",
+      "MSG_0631",
+      "MSG_0744",
+      "MSG_0822",
+      "MSG_0871",
+      "MSG_0954",
+      "DEMO_008"
+    ],
+    "related_task_event_ids": [
+      "EVENT_004",
+      "EVENT_026",
+      "EVENT_041",
+      "EVENT_088",
+      "EVENT_092",
+      "EVENT_103",
+      "EVENT_116",
+      "EVENT_134",
+      "EVENT_149",
+      "EVENT_162"
+    ],
+    "summary": "The subject first appears as: Hi, Calendar update: team stand-up, 2026-09-04 at 15:00, the college auditorium. Latest state: Cancelled. Latest explicit date: 2026-10-02. Latest update: The team stand-up has been cancelled.",
+    "status": "Cancelled",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_010",
+    "title": "Confirm interview slot",
+    "related_message_ids": [
+      "MSG_0027",
+      "MSG_0171",
+      "MSG_0195",
+      "MSG_0220",
+      "MSG_0314",
+      "MSG_0335",
+      "MSG_0480",
+      "MSG_0527",
+      "MSG_0557",
+      "MSG_0617",
+      "MSG_0906",
+      "MSG_0926",
+      "MSG_0972",
+      "MSG_0976",
+      "MSG_0982",
+      "MSG_1002",
+      "DEMO_001",
+      "DEMO_016"
+    ],
+    "related_task_event_ids": [
+      "TASK_006",
+      "TASK_047",
+      "TASK_052",
+      "TASK_059",
+      "TASK_083",
+      "TASK_088",
+      "TASK_122",
+      "TASK_140",
+      "TASK_152",
+      "TASK_168"
+    ],
+    "summary": "The subject first appears as: Please note: Please confirm the interview slot by 2026-09-05. Latest state: Unclear. Latest explicit date: 2026-10-05. Latest update: Confirm the interview slot might already be finished, but I cannot confirm it.",
+    "status": "Unclear",
+    "latest_deadline": "2026-10-05",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_011",
+    "title": "Email the signed document",
+    "related_message_ids": [
+      "MSG_0028",
+      "MSG_0065",
+      "MSG_0101",
+      "MSG_0309",
+      "MSG_0368",
+      "MSG_0394",
+      "MSG_0605",
+      "MSG_0799",
+      "MSG_0829",
+      "MSG_0862",
+      "MSG_0907",
+      "MSG_0918",
+      "MSG_0927",
+      "MSG_0933",
+      "MSG_1000",
+      "MSG_1015",
+      "DEMO_002"
+    ],
+    "related_task_event_ids": [
+      "TASK_007",
+      "TASK_020",
+      "TASK_025",
+      "TASK_080",
+      "TASK_097",
+      "TASK_103",
+      "TASK_163",
+      "TASK_215",
+      "TASK_225",
+      "TASK_230"
+    ],
+    "summary": "The subject first appears as: For today: Don't forget to email the signed document; deadline is 2026-09-04. Latest state: Completed. Latest explicit date: 2026-09-06. Latest update: Confirmed: email the signed document has been completed.",
+    "status": "Completed",
+    "latest_deadline": "2026-09-06",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_012",
+    "title": "Update project tracker",
+    "related_message_ids": [
+      "MSG_0031",
+      "MSG_0038",
+      "MSG_0139",
+      "MSG_0300",
+      "MSG_0412",
+      "MSG_0622",
+      "MSG_0656",
+      "MSG_0708",
+      "MSG_0736",
+      "MSG_0884",
+      "MSG_0908",
+      "MSG_0911",
+      "MSG_0928",
+      "MSG_0942",
+      "DEMO_003",
+      "DEMO_006"
+    ],
+    "related_task_event_ids": [
+      "TASK_008",
+      "TASK_011",
+      "TASK_036",
+      "TASK_076",
+      "TASK_109",
+      "TASK_172",
+      "TASK_182",
+      "TASK_193",
+      "TASK_200",
+      "TASK_236"
+    ],
+    "summary": "The subject first appears as: Can you update the project tracker before 2026-09-04? Latest state: Cancelled. Latest explicit date: 2026-10-06. Latest update: One message says Friday, but the latest instruction says update the project tracker is due on 2026-10-06.",
+    "status": "Cancelled",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_013",
+    "title": "Upload the assignment",
+    "related_message_ids": [
+      "MSG_0032",
+      "MSG_0269",
+      "MSG_0345",
+      "MSG_0498",
+      "MSG_0554",
+      "MSG_0633",
+      "MSG_0640",
+      "MSG_0670",
+      "MSG_0688",
+      "MSG_0761",
+      "MSG_0909",
+      "MSG_0929",
+      "DEMO_004",
+      "DEMO_020"
+    ],
+    "related_task_event_ids": [
+      "TASK_009",
+      "TASK_071",
+      "TASK_091",
+      "TASK_130",
+      "TASK_150",
+      "TASK_174",
+      "TASK_178",
+      "TASK_188",
+      "TASK_189",
+      "TASK_205"
+    ],
+    "summary": "The subject first appears as: Important: Don't forget to upload the assignment; deadline is 2026-09-09. Latest state: Rescheduled. Latest explicit date: 2026-10-20. Latest update: The deadline for upload the assignment has been extended to 2026-10-20.",
+    "status": "Rescheduled",
+    "latest_deadline": "2026-10-20",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_014",
+    "title": "Complete the onboarding form",
+    "related_message_ids": [
+      "MSG_0035",
+      "MSG_0045",
+      "MSG_0060",
+      "MSG_0331",
+      "MSG_0398",
+      "MSG_0420",
+      "MSG_0546",
+      "MSG_0551",
+      "MSG_0585",
+      "MSG_0624",
+      "MSG_0910",
+      "MSG_0913",
+      "MSG_0916",
+      "MSG_0930"
+    ],
+    "related_task_event_ids": [
+      "TASK_010",
+      "TASK_014",
+      "TASK_018",
+      "TASK_086",
+      "TASK_105",
+      "TASK_112",
+      "TASK_145",
+      "TASK_147",
+      "TASK_161",
+      "TASK_173"
+    ],
+    "summary": "The subject first appears as: For today: Complete the onboarding form is due on 2026-09-10. Latest state: Completed. Latest explicit date: 2026-09-06. Latest update: Please confirm whether you started to complete the onboarding form.",
+    "status": "Completed",
+    "latest_deadline": "2026-09-06",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_015",
+    "title": "Study-group session",
+    "related_message_ids": [
+      "MSG_0036",
+      "MSG_0162",
+      "MSG_0223",
+      "MSG_0311",
+      "MSG_0508",
+      "MSG_0549",
+      "MSG_0623",
+      "MSG_0706",
+      "MSG_0793",
+      "MSG_0873"
+    ],
+    "related_task_event_ids": [
+      "EVENT_006",
+      "EVENT_034",
+      "EVENT_047",
+      "EVENT_060",
+      "EVENT_096",
+      "EVENT_100",
+      "EVENT_113",
+      "EVENT_130",
+      "EVENT_142",
+      "EVENT_163"
+    ],
+    "summary": "The subject first appears as: Please join the study-group session on 2026-09-13, 12:00 at Google Meet. Latest explicit date: 2026-09-08. Latest update: One more thing: Please join the study-group session on 2026-09-08, 11:00 at Conference Room 2.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-08",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_016",
+    "title": "Review",
+    "related_message_ids": [
+      "MSG_0037",
+      "MSG_0054",
+      "MSG_0098",
+      "MSG_0213",
+      "MSG_0217",
+      "MSG_0462",
+      "MSG_0493",
+      "MSG_0635",
+      "MSG_0840",
+      "MSG_0886"
+    ],
+    "related_task_event_ids": [
+      "EVENT_007",
+      "EVENT_012",
+      "EVENT_019",
+      "EVENT_042",
+      "EVENT_044",
+      "EVENT_089",
+      "EVENT_094",
+      "EVENT_117",
+      "EVENT_153",
+      "EVENT_167"
+    ],
+    "summary": "The subject first appears as: One more thing: The review could be Friday afternoon. Latest update: For today: The review could be Friday afternoon.",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_017",
+    "title": "Review the file",
+    "related_message_ids": [
+      "MSG_0041",
+      "MSG_0110",
+      "MSG_0198",
+      "MSG_0377",
+      "MSG_0457",
+      "MSG_0524",
+      "MSG_0559",
+      "MSG_0580",
+      "MSG_0816"
+    ],
+    "related_task_event_ids": [
+      "TASK_012",
+      "TASK_027",
+      "TASK_053",
+      "TASK_099",
+      "TASK_118",
+      "TASK_138",
+      "TASK_153",
+      "TASK_160",
+      "TASK_220"
+    ],
+    "summary": "The subject first appears as: For today: If possible, review the file before the meeting. Latest update: Quick update: If possible, review the file before the meeting.",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_018",
+    "title": "Client discussion",
+    "related_message_ids": [
+      "MSG_0042",
+      "MSG_0055",
+      "MSG_0258",
+      "MSG_0302",
+      "MSG_0356",
+      "MSG_0456",
+      "MSG_0588",
+      "MSG_0788",
+      "MSG_0868",
+      "MSG_0878"
+    ],
+    "related_task_event_ids": [
+      "EVENT_008",
+      "EVENT_013",
+      "EVENT_051",
+      "EVENT_059",
+      "EVENT_068",
+      "EVENT_087",
+      "EVENT_104",
+      "EVENT_139",
+      "EVENT_161",
+      "EVENT_165"
+    ],
+    "summary": "The subject first appears as: For today: The client discussion is scheduled for 2026-09-12 at 11:00 in Meeting Room A. Latest explicit date: 2026-09-02. Latest update: Please note: The client discussion is scheduled for 2026-09-02 at 13:00 in Meeting Room A.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-02",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_019",
+    "title": "Complete Python exercise",
+    "related_message_ids": [
+      "MSG_0044",
+      "MSG_0114",
+      "MSG_0145",
+      "MSG_0245",
+      "MSG_0396",
+      "MSG_0422",
+      "MSG_0577",
+      "MSG_0694",
+      "MSG_0814",
+      "MSG_0898",
+      "MSG_0912",
+      "MSG_0938",
+      "MSG_0944",
+      "MSG_0987"
+    ],
+    "related_task_event_ids": [
+      "TASK_013",
+      "TASK_031",
+      "TASK_038",
+      "TASK_067",
+      "TASK_104",
+      "TASK_113",
+      "TASK_158",
+      "TASK_191",
+      "TASK_218",
+      "TASK_239"
+    ],
+    "summary": "The subject first appears as: Just checking\u2014Please complete the Python exercise by 2026-09-09. Latest state: Completed. Latest explicit date: 2026-10-01. Latest update: The deadline to complete the Python exercise is now 2026-10-01, earlier than previously planned. Treat this as urgent.",
+    "status": "Completed",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_020",
+    "title": "Call the service centre",
+    "related_message_ids": [
+      "MSG_0046",
+      "MSG_0089",
+      "MSG_0115",
+      "MSG_0144",
+      "MSG_0150",
+      "MSG_0163",
+      "MSG_0251",
+      "MSG_0283",
+      "MSG_0503",
+      "MSG_0757",
+      "MSG_0914",
+      "MSG_0932",
+      "MSG_0939",
+      "MSG_0943",
+      "MSG_0946",
+      "MSG_0950",
+      "MSG_0988"
+    ],
+    "related_task_event_ids": [
+      "TASK_015",
+      "TASK_024",
+      "TASK_032",
+      "TASK_037",
+      "TASK_040",
+      "TASK_045",
+      "TASK_068",
+      "TASK_073",
+      "TASK_131",
+      "TASK_204"
+    ],
+    "summary": "The subject first appears as: For today: Don't forget to call the service centre; deadline is 2026-09-09. Latest state: Completed. Latest explicit date: 2026-10-02. Latest update: Please note that call the service centre is due on 2026-10-02, although the earlier message listed another date.",
+    "status": "Completed",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_021",
+    "title": "Product demo",
+    "related_message_ids": [
+      "MSG_0049",
+      "MSG_0077",
+      "MSG_0138",
+      "MSG_0338",
+      "MSG_0342",
+      "MSG_0423",
+      "MSG_0606",
+      "MSG_0619",
+      "MSG_0707",
+      "MSG_0759"
+    ],
+    "related_task_event_ids": [
+      "EVENT_010",
+      "EVENT_017",
+      "EVENT_030",
+      "EVENT_064",
+      "EVENT_065",
+      "EVENT_078",
+      "EVENT_110",
+      "EVENT_112",
+      "EVENT_131",
+      "EVENT_137"
+    ],
+    "summary": "The subject first appears as: One more thing: The product demo is scheduled for 2026-09-07 at 10:00 in Zoom. Latest explicit date: 2026-09-12. Latest update: The product demo is scheduled for 2026-09-12 at 11:00 in Meeting Room A.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-12",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_022",
+    "title": "Doctor appointment",
+    "related_message_ids": [
+      "MSG_0051",
+      "MSG_0127",
+      "MSG_0405",
+      "MSG_0465",
+      "MSG_0511",
+      "MSG_0592",
+      "MSG_0601",
+      "MSG_0637",
+      "MSG_0673",
+      "MSG_0711"
+    ],
+    "related_task_event_ids": [
+      "EVENT_011",
+      "EVENT_025",
+      "EVENT_075",
+      "EVENT_090",
+      "EVENT_097",
+      "EVENT_106",
+      "EVENT_108",
+      "EVENT_118",
+      "EVENT_125",
+      "EVENT_132"
+    ],
+    "summary": "The subject first appears as: Important: Reminder: doctor appointment happens on 2026-09-16 at 15:00 in the city clinic. Latest explicit date: 2026-09-06. Latest update: Can you help? Reminder: doctor appointment happens on 2026-09-06 at 13:00 in the city clinic.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-06",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_023",
+    "title": "Call Maya",
+    "related_message_ids": [
+      "MSG_0056",
+      "MSG_0121",
+      "MSG_0193",
+      "MSG_0410",
+      "MSG_0438",
+      "MSG_0495",
+      "MSG_0634",
+      "MSG_0717",
+      "MSG_0811",
+      "MSG_0827"
+    ],
+    "related_task_event_ids": [
+      "TASK_016",
+      "TASK_034",
+      "TASK_051",
+      "TASK_108",
+      "TASK_115",
+      "TASK_129",
+      "TASK_175",
+      "TASK_195",
+      "TASK_217",
+      "TASK_224"
+    ],
+    "summary": "The subject first appears as: Please note: Please call Maya when you are free. Latest update: For today: Please call Maya when you are free.",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_024",
+    "title": "Ai workshop",
+    "related_message_ids": [
+      "MSG_0062",
+      "MSG_0067",
+      "MSG_0168",
+      "MSG_0244",
+      "MSG_0330",
+      "MSG_0449",
+      "MSG_0628",
+      "MSG_0745",
+      "MSG_0747",
+      "MSG_0895"
+    ],
+    "related_task_event_ids": [
+      "EVENT_014",
+      "EVENT_016",
+      "EVENT_035",
+      "EVENT_048",
+      "EVENT_063",
+      "EVENT_085",
+      "EVENT_114",
+      "EVENT_135",
+      "EVENT_136",
+      "EVENT_169"
+    ],
+    "summary": "The subject first appears as: Please join the AI workshop on 2026-09-08, 15:00 at Conference Room 2. Latest explicit date: 2026-09-13. Latest update: For today: Please join the AI workshop on 2026-09-13, 12:00 at Google Meet.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-13",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_025",
+    "title": "Project review",
+    "related_message_ids": [
+      "MSG_0066",
+      "MSG_0131",
+      "MSG_0151",
+      "MSG_0216",
+      "MSG_0357",
+      "MSG_0382",
+      "MSG_0427",
+      "MSG_0674",
+      "MSG_0693",
+      "MSG_0792"
+    ],
+    "related_task_event_ids": [
+      "EVENT_015",
+      "EVENT_027",
+      "EVENT_031",
+      "EVENT_043",
+      "EVENT_069",
+      "EVENT_073",
+      "EVENT_080",
+      "EVENT_126",
+      "EVENT_128",
+      "EVENT_141"
+    ],
+    "summary": "The subject first appears as: Can you help? The project review is scheduled for 2026-09-02 at 9:00 in Meeting Room A. Latest explicit date: 2026-09-02. Latest update: The project review is scheduled for 2026-09-02 at 9:00 in Meeting Room A.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-02",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_026",
+    "title": "Finish test cases",
+    "related_message_ids": [
+      "MSG_0088",
+      "MSG_0153",
+      "MSG_0210",
+      "MSG_0221",
+      "MSG_0289",
+      "MSG_0468",
+      "MSG_0574",
+      "MSG_0602",
+      "MSG_0618",
+      "MSG_0826",
+      "MSG_0931",
+      "MSG_0947",
+      "MSG_0979",
+      "MSG_0983",
+      "MSG_0995",
+      "MSG_1010"
+    ],
+    "related_task_event_ids": [
+      "TASK_023",
+      "TASK_042",
+      "TASK_056",
+      "TASK_060",
+      "TASK_075",
+      "TASK_120",
+      "TASK_157",
+      "TASK_162",
+      "TASK_169",
+      "TASK_223"
+    ],
+    "summary": "The subject first appears as: One more thing: Can you finish the test cases before 2026-09-08? Latest state: Completed. Latest explicit date: 2026-09-27. Latest update: Follow-up: i am referring to our earlier request about finish the test cases.",
+    "status": "Completed",
+    "latest_deadline": "2026-09-27",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_027",
+    "title": "Placement briefing",
+    "related_message_ids": [
+      "MSG_0097",
+      "MSG_0123",
+      "MSG_0154",
+      "MSG_0156",
+      "MSG_0184",
+      "MSG_0201",
+      "MSG_0590",
+      "MSG_0789",
+      "MSG_0821",
+      "MSG_0823",
+      "MSG_0966",
+      "MSG_0970"
+    ],
+    "related_task_event_ids": [
+      "EVENT_018",
+      "EVENT_023",
+      "EVENT_032",
+      "EVENT_033",
+      "EVENT_038",
+      "EVENT_039",
+      "EVENT_105",
+      "EVENT_140",
+      "EVENT_148",
+      "EVENT_150"
+    ],
+    "summary": "The subject first appears as: Just checking\u2014Calendar update: placement briefing, 2026-09-04 at 11:00, the college auditorium. Latest state: Rescheduled. Latest explicit date: 2026-10-06. Latest update: The placement briefing has been moved to 2026-10-06 at 15:00. Please use the new schedule.",
+    "status": "Rescheduled",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_028",
+    "title": "Sprint planning",
+    "related_message_ids": [
+      "MSG_0100",
+      "MSG_0169",
+      "MSG_0177",
+      "MSG_0218",
+      "MSG_0268",
+      "MSG_0424",
+      "MSG_0643",
+      "MSG_0645",
+      "MSG_0664",
+      "MSG_0668",
+      "MSG_0967"
+    ],
+    "related_task_event_ids": [
+      "EVENT_020",
+      "EVENT_036",
+      "EVENT_037",
+      "EVENT_045",
+      "EVENT_052",
+      "EVENT_079",
+      "EVENT_119",
+      "EVENT_120",
+      "EVENT_123",
+      "EVENT_124"
+    ],
+    "summary": "The subject first appears as: Hi, Reminder: sprint planning happens on 2026-09-16 at 11:00 in the city clinic. Latest state: Rescheduled. Latest explicit date: 2026-10-03. Latest update: The sprint planning has been moved to 2026-10-03 at 12:00. Please use the new schedule.",
+    "status": "Rescheduled",
+    "latest_deadline": "2026-10-03",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_029",
+    "title": "Send revised presentation",
+    "related_message_ids": [
+      "MSG_0102",
+      "MSG_0112",
+      "MSG_0231",
+      "MSG_0307",
+      "MSG_0317",
+      "MSG_0407",
+      "MSG_0512",
+      "MSG_0662",
+      "MSG_0725",
+      "MSG_0780",
+      "MSG_0934",
+      "MSG_0936",
+      "MSG_0985"
+    ],
+    "related_task_event_ids": [
+      "TASK_026",
+      "TASK_029",
+      "TASK_063",
+      "TASK_079",
+      "TASK_084",
+      "TASK_107",
+      "TASK_133",
+      "TASK_186",
+      "TASK_198",
+      "TASK_210"
+    ],
+    "summary": "The subject first appears as: FYI: Can you send the revised presentation before 2026-09-08? Latest explicit date: 2026-09-29. Latest update: The deadline to send the revised presentation is now 2026-09-29, earlier than previously planned. Treat this as urgent.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-29",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_030",
+    "title": "Technical interview",
+    "related_message_ids": [
+      "MSG_0103",
+      "MSG_0282",
+      "MSG_0316",
+      "MSG_0359",
+      "MSG_0413",
+      "MSG_0445",
+      "MSG_0579",
+      "MSG_0630",
+      "MSG_0831",
+      "MSG_0837",
+      "MSG_0968"
+    ],
+    "related_task_event_ids": [
+      "EVENT_021",
+      "EVENT_056",
+      "EVENT_061",
+      "EVENT_070",
+      "EVENT_076",
+      "EVENT_084",
+      "EVENT_102",
+      "EVENT_115",
+      "EVENT_151",
+      "EVENT_152"
+    ],
+    "summary": "The subject first appears as: Important: Are you available for the technical interview at 16:00 on 2026-09-05? Location: the main office. Latest state: Rescheduled. Latest explicit date: 2026-10-04. Latest update: The technical interview has been moved to 2026-10-04 at 13:00. Please use the new schedule.",
+    "status": "Rescheduled",
+    "latest_deadline": "2026-10-04",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_031",
+    "title": "Prepare the demo video",
+    "related_message_ids": [
+      "MSG_0113",
+      "MSG_0136",
+      "MSG_0147",
+      "MSG_0203",
+      "MSG_0361",
+      "MSG_0513",
+      "MSG_0561",
+      "MSG_0690",
+      "MSG_0850",
+      "MSG_0851",
+      "MSG_0937",
+      "MSG_0941",
+      "MSG_0945",
+      "MSG_0977"
+    ],
+    "related_task_event_ids": [
+      "TASK_030",
+      "TASK_035",
+      "TASK_039",
+      "TASK_054",
+      "TASK_094",
+      "TASK_134",
+      "TASK_154",
+      "TASK_190",
+      "TASK_226",
+      "TASK_227"
+    ],
+    "summary": "The subject first appears as: Quick update: Prepare the demo video is due on 2026-09-09. Latest state: Completed. Latest explicit date: 2026-09-27. Latest update: The deadline to prepare the demo video is now 2026-09-27, earlier than previously planned. Treat this as urgent.",
+    "status": "Completed",
+    "latest_deadline": "2026-09-27",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_032",
+    "title": "Send the expense receipt",
+    "related_message_ids": [
+      "MSG_0119",
+      "MSG_0219",
+      "MSG_0358",
+      "MSG_0473",
+      "MSG_0485",
+      "MSG_0531",
+      "MSG_0722",
+      "MSG_0776",
+      "MSG_0815",
+      "MSG_0870",
+      "MSG_0981"
+    ],
+    "related_task_event_ids": [
+      "TASK_033",
+      "TASK_058",
+      "TASK_092",
+      "TASK_121",
+      "TASK_125",
+      "TASK_142",
+      "TASK_197",
+      "TASK_208",
+      "TASK_219",
+      "TASK_233"
+    ],
+    "summary": "The subject first appears as: Can you help? Send the expense receipt is due on 2026-09-08. Latest explicit date: 2026-10-01. Latest update: The deadline to send the expense receipt is now 2026-10-01, earlier than previously planned. Treat this as urgent.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_033",
+    "title": "Sometime next week",
+    "related_message_ids": [
+      "MSG_0133",
+      "MSG_0207",
+      "MSG_0278",
+      "MSG_0350",
+      "MSG_0354",
+      "MSG_0444",
+      "MSG_0502",
+      "MSG_0526",
+      "MSG_0770",
+      "MSG_0801"
+    ],
+    "related_task_event_ids": [
+      "EVENT_028",
+      "EVENT_040",
+      "EVENT_055",
+      "EVENT_066",
+      "EVENT_067",
+      "EVENT_083",
+      "EVENT_095",
+      "EVENT_099",
+      "EVENT_138",
+      "EVENT_146"
+    ],
+    "summary": "The subject first appears as: Important: Let us meet sometime next week. Latest update: For today: Let us meet sometime next week.",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_034",
+    "title": "Prepare the report",
+    "related_message_ids": [
+      "MSG_0152",
+      "MSG_0227",
+      "MSG_0235",
+      "MSG_0240",
+      "MSG_0523",
+      "MSG_0525",
+      "MSG_0696",
+      "MSG_0768",
+      "MSG_0875",
+      "MSG_0888"
+    ],
+    "related_task_event_ids": [
+      "TASK_041",
+      "TASK_062",
+      "TASK_065",
+      "TASK_066",
+      "TASK_137",
+      "TASK_139",
+      "TASK_192",
+      "TASK_206",
+      "TASK_234",
+      "TASK_237"
+    ],
+    "summary": "The subject first appears as: Hi, The report may be needed tomorrow. Latest update: Quick update: The report may be needed tomorrow.",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_035",
+    "title": "Verify the dataset labels",
+    "related_message_ids": [
+      "MSG_0157",
+      "MSG_0226",
+      "MSG_0360",
+      "MSG_0417",
+      "MSG_0455",
+      "MSG_0483",
+      "MSG_0517",
+      "MSG_0607",
+      "MSG_0612",
+      "MSG_0658",
+      "MSG_0948",
+      "MSG_0984"
+    ],
+    "related_task_event_ids": [
+      "TASK_043",
+      "TASK_061",
+      "TASK_093",
+      "TASK_110",
+      "TASK_117",
+      "TASK_124",
+      "TASK_136",
+      "TASK_164",
+      "TASK_165",
+      "TASK_184"
+    ],
+    "summary": "The subject first appears as: Just checking\u2014I need you to verify the dataset labels by 2026-09-07. Latest explicit date: 2026-09-28. Latest update: Please note that verify the dataset labels is due on 2026-09-28, although the earlier message listed another date.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-28",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_036",
+    "title": "Submit weekly report",
+    "related_message_ids": [
+      "MSG_0160",
+      "MSG_0208",
+      "MSG_0369",
+      "MSG_0379",
+      "MSG_0530",
+      "MSG_0547",
+      "MSG_0552",
+      "MSG_0639",
+      "MSG_0730",
+      "MSG_0824",
+      "MSG_0949",
+      "MSG_0978"
+    ],
+    "related_task_event_ids": [
+      "TASK_044",
+      "TASK_055",
+      "TASK_098",
+      "TASK_100",
+      "TASK_141",
+      "TASK_146",
+      "TASK_148",
+      "TASK_177",
+      "TASK_199",
+      "TASK_222"
+    ],
+    "summary": "The subject first appears as: Important: Please submit the weekly report by 2026-09-05. Latest state: Completed. Latest explicit date: 2026-09-28. Latest update: Please note that submit the weekly report is due on 2026-09-28, although the earlier message listed another date.",
+    "status": "Completed",
+    "latest_deadline": "2026-09-28",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_037",
+    "title": "Share the meeting notes",
+    "related_message_ids": [
+      "MSG_0170",
+      "MSG_0280",
+      "MSG_0556",
+      "MSG_0566",
+      "MSG_0652",
+      "MSG_0716",
+      "MSG_0720",
+      "MSG_0787",
+      "MSG_0795",
+      "MSG_0819",
+      "MSG_0971",
+      "MSG_0992",
+      "MSG_1007"
+    ],
+    "related_task_event_ids": [
+      "TASK_046",
+      "TASK_072",
+      "TASK_151",
+      "TASK_155",
+      "TASK_179",
+      "TASK_194",
+      "TASK_196",
+      "TASK_213",
+      "TASK_214",
+      "TASK_221"
+    ],
+    "summary": "The subject first appears as: FYI: Share the meeting notes is due on 2026-09-05. Latest explicit date: 2026-09-27. Latest update: Follow-up: please check the latest status of share the meeting notes.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-27",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_038",
+    "title": "Back up the project files",
+    "related_message_ids": [
+      "MSG_0252",
+      "MSG_0312",
+      "MSG_0334",
+      "MSG_0340",
+      "MSG_0401",
+      "MSG_0615",
+      "MSG_0657",
+      "MSG_0659",
+      "MSG_0864",
+      "MSG_0865",
+      "MSG_0989",
+      "MSG_1005"
+    ],
+    "related_task_event_ids": [
+      "TASK_069",
+      "TASK_082",
+      "TASK_087",
+      "TASK_090",
+      "TASK_106",
+      "TASK_167",
+      "TASK_183",
+      "TASK_185",
+      "TASK_231",
+      "TASK_232"
+    ],
+    "summary": "The subject first appears as: Quick update: I need you to back up the project files by 2026-09-06. Latest explicit date: 2026-09-27. Latest update: I am referring to our earlier request about back up the project files.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-27",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_039",
+    "title": "Design review",
+    "related_message_ids": [
+      "MSG_0271",
+      "MSG_0293",
+      "MSG_0363",
+      "MSG_0414",
+      "MSG_0565",
+      "MSG_0616",
+      "MSG_0800",
+      "MSG_0810",
+      "MSG_0849",
+      "MSG_0894"
+    ],
+    "related_task_event_ids": [
+      "EVENT_053",
+      "EVENT_057",
+      "EVENT_071",
+      "EVENT_077",
+      "EVENT_101",
+      "EVENT_111",
+      "EVENT_145",
+      "EVENT_147",
+      "EVENT_157",
+      "EVENT_168"
+    ],
+    "summary": "The subject first appears as: For today: Are you available for the design review at 14:00 on 2026-09-15? Location: the main office. Latest explicit date: 2026-09-20. Latest update: Important: Are you available for the design review at 11:00 on 2026-09-20? Location: the training hall.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-20",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_040",
+    "title": "Send item (unspecified)",
+    "related_message_ids": [
+      "MSG_0310",
+      "MSG_0323",
+      "MSG_0386",
+      "MSG_0393",
+      "MSG_0486",
+      "MSG_0492",
+      "MSG_0505",
+      "MSG_0654",
+      "MSG_0775",
+      "MSG_0859"
+    ],
+    "related_task_event_ids": [
+      "TASK_081",
+      "TASK_085",
+      "TASK_101",
+      "TASK_102",
+      "TASK_126",
+      "TASK_128",
+      "TASK_132",
+      "TASK_181",
+      "TASK_207",
+      "TASK_229"
+    ],
+    "summary": "The subject first appears as: Could you send it soon? Latest update: Hi, Could you send it soon?",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_041",
+    "title": "College seminar",
+    "related_message_ids": [
+      "MSG_0327",
+      "MSG_0384",
+      "MSG_0450",
+      "MSG_0519",
+      "MSG_0600",
+      "MSG_0798",
+      "MSG_0860",
+      "MSG_0877",
+      "MSG_0882",
+      "MSG_0900"
+    ],
+    "related_task_event_ids": [
+      "EVENT_062",
+      "EVENT_074",
+      "EVENT_086",
+      "EVENT_098",
+      "EVENT_107",
+      "EVENT_144",
+      "EVENT_158",
+      "EVENT_164",
+      "EVENT_166",
+      "EVENT_170"
+    ],
+    "summary": "The subject first appears as: For today: Are you available for the college seminar at 9:00 on 2026-09-10? Location: the training hall. Latest explicit date: 2026-09-15. Latest update: Quick update: Are you available for the college seminar at 10:00 on 2026-09-15? Location: the main office.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-15",
+    "confidence": 0.86
+  },
+  {
+    "group_id": "GROUP_042",
+    "title": "Concerning Assignment",
+    "related_message_ids": [
+      "MSG_0991",
+      "MSG_1006"
+    ],
+    "related_task_event_ids": [],
+    "summary": "The subject first appears as: Any progress on the item concerning the assignment? Latest update: Follow-up: any progress on the item concerning the assignment?",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.68
+  },
+  {
+    "group_id": "GROUP_043",
+    "title": "Call Service Centre Still Needs Attention",
+    "related_message_ids": [
+      "MSG_0993",
+      "MSG_1008"
+    ],
+    "related_task_event_ids": [],
+    "summary": "The subject first appears as: The work we discussed about call the service centre still needs attention. Latest state: In progress. Latest update: Follow-up: the work we discussed about call the service centre still needs attention.",
+    "status": "In progress",
+    "latest_deadline": null,
+    "confidence": 0.68
+  },
+  {
+    "group_id": "GROUP_044",
+    "title": "Concerning Update Project Tracker",
+    "related_message_ids": [
+      "MSG_0996",
+      "MSG_1011"
+    ],
+    "related_task_event_ids": [],
+    "summary": "The subject first appears as: Any progress on the item concerning update the project tracker? Latest update: Follow-up: any progress on the item concerning update the project tracker?",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.68
+  },
+  {
+    "group_id": "GROUP_045",
+    "title": "Model Results Still Needs Attention",
+    "related_message_ids": [
+      "MSG_0998",
+      "MSG_1013"
+    ],
+    "related_task_event_ids": [],
+    "summary": "The subject first appears as: The work we discussed about the model results still needs attention. Latest state: In progress. Latest update: Follow-up: the work we discussed about the model results still needs attention.",
+    "status": "In progress",
+    "latest_deadline": null,
+    "confidence": 0.68
+  },
+  {
+    "group_id": "GROUP_046",
+    "title": "Concerning Back Up Project Files",
+    "related_message_ids": [
+      "MSG_1001"
+    ],
+    "related_task_event_ids": [],
+    "summary": "The subject first appears as: Any progress on the item concerning back up the project files?",
+    "status": "Pending",
+    "latest_deadline": null,
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_047",
+    "title": "Revised Presentation Still Needs Attention",
+    "related_message_ids": [
+      "MSG_1003"
+    ],
+    "related_task_event_ids": [],
+    "summary": "The subject first appears as: The work we discussed about the revised presentation still needs attention. Latest state: In progress.",
+    "status": "In progress",
+    "latest_deadline": null,
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_048",
+    "title": "Offline Inference Demo",
+    "related_message_ids": [
+      "MSG_1016",
+      "MSG_1026"
+    ],
+    "related_task_event_ids": [
+      "EVENT_171"
+    ],
+    "summary": "The subject first appears as: A new prepare the offline inference demo session is scheduled for 2026-09-30 at 10:00. Latest explicit date: 2026-09-30. Latest update: New task: prepare the offline inference demo by 2026-09-30.",
+    "status": "Pending",
+    "latest_deadline": "2026-09-30",
+    "confidence": 0.68
+  },
+  {
+    "group_id": "GROUP_049",
+    "title": "Compare Two Embedding Models",
+    "related_message_ids": [
+      "MSG_1017"
+    ],
+    "related_task_event_ids": [
+      "TASK_240"
+    ],
+    "summary": "The subject first appears as: New task: compare two embedding models by 2026-10-01. Latest explicit date: 2026-10-01.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_050",
+    "title": "Document Privacy Routing Decisions",
+    "related_message_ids": [
+      "MSG_1018"
+    ],
+    "related_task_event_ids": [
+      "TASK_241"
+    ],
+    "summary": "The subject first appears as: New task: document privacy-routing decisions by 2026-10-02. Latest explicit date: 2026-10-02.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_051",
+    "title": "Create Latency Chart",
+    "related_message_ids": [
+      "MSG_1019"
+    ],
+    "related_task_event_ids": [
+      "TASK_242"
+    ],
+    "summary": "The subject first appears as: New task: create a latency chart by 2026-10-03. Latest explicit date: 2026-10-03.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-03",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_052",
+    "title": "Quantization Results",
+    "related_message_ids": [
+      "MSG_1020",
+      "MSG_1030"
+    ],
+    "related_task_event_ids": [
+      "EVENT_172"
+    ],
+    "summary": "The subject first appears as: A new review the quantization results session is scheduled for 2026-10-04 at 14:00. Latest explicit date: 2026-10-04. Latest update: New task: review the quantization results by 2026-10-04.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-04",
+    "confidence": 0.68
+  },
+  {
+    "group_id": "GROUP_053",
+    "title": "Test Assistant Without Internet",
+    "related_message_ids": [
+      "MSG_1021"
+    ],
+    "related_task_event_ids": [
+      "TASK_243"
+    ],
+    "summary": "The subject first appears as: New task: test the assistant without internet by 2026-10-05. Latest explicit date: 2026-10-05.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-05",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_054",
+    "title": "Update Architecture Diagram",
+    "related_message_ids": [
+      "MSG_1022"
+    ],
+    "related_task_event_ids": [
+      "TASK_244"
+    ],
+    "summary": "The subject first appears as: New task: update the architecture diagram by 2026-10-06. Latest explicit date: 2026-10-06.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_055",
+    "title": "Measure Memory Usage",
+    "related_message_ids": [
+      "MSG_1023"
+    ],
+    "related_task_event_ids": [
+      "TASK_245"
+    ],
+    "summary": "The subject first appears as: New task: measure memory usage by 2026-10-07. Latest explicit date: 2026-10-07.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-07",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_056",
+    "title": "L2 Presentation",
+    "related_message_ids": [
+      "MSG_1024",
+      "MSG_1034"
+    ],
+    "related_task_event_ids": [
+      "EVENT_173"
+    ],
+    "summary": "The subject first appears as: A new prepare the L2 presentation session is scheduled for 2026-10-08 at 12:00. Latest explicit date: 2026-10-08. Latest update: New task: prepare the L2 presentation by 2026-10-08.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-08",
+    "confidence": 0.68
+  },
+  {
+    "group_id": "GROUP_057",
+    "title": "Validate Mandatory Queries",
+    "related_message_ids": [
+      "MSG_1025"
+    ],
+    "related_task_event_ids": [
+      "TASK_246"
+    ],
+    "summary": "The subject first appears as: New task: validate the mandatory queries by 2026-10-09. Latest explicit date: 2026-10-09.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-09",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_058",
+    "title": "Follow Up Compare Two Embedding Models",
+    "related_message_ids": [
+      "MSG_1027"
+    ],
+    "related_task_event_ids": [
+      "TASK_247"
+    ],
+    "summary": "The subject first appears as: Follow-up: new task: compare two embedding models by 2026-10-01. Latest explicit date: 2026-10-01.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-01",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_059",
+    "title": "Privacy Routing Decisions",
+    "related_message_ids": [
+      "MSG_1028"
+    ],
+    "related_task_event_ids": [
+      "EVENT_174"
+    ],
+    "summary": "The subject first appears as: A new document privacy-routing decisions session is scheduled for 2026-10-02 at 10:00. Latest explicit date: 2026-10-02.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-02",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_060",
+    "title": "Follow Up Create Latency Chart",
+    "related_message_ids": [
+      "MSG_1029"
+    ],
+    "related_task_event_ids": [
+      "TASK_248"
+    ],
+    "summary": "The subject first appears as: Follow-up: new task: create a latency chart by 2026-10-03. Latest explicit date: 2026-10-03.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-03",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_061",
+    "title": "Follow Up Test Assistant Without Internet",
+    "related_message_ids": [
+      "MSG_1031"
+    ],
+    "related_task_event_ids": [
+      "TASK_249"
+    ],
+    "summary": "The subject first appears as: Follow-up: new task: test the assistant without internet by 2026-10-05. Latest explicit date: 2026-10-05.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-05",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_062",
+    "title": "Architecture Diagram",
+    "related_message_ids": [
+      "MSG_1032"
+    ],
+    "related_task_event_ids": [
+      "EVENT_175"
+    ],
+    "summary": "The subject first appears as: A new update the architecture diagram session is scheduled for 2026-10-06 at 14:00. Latest explicit date: 2026-10-06.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-06",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_063",
+    "title": "Follow Up Measure Memory Usage",
+    "related_message_ids": [
+      "MSG_1033"
+    ],
+    "related_task_event_ids": [
+      "TASK_250"
+    ],
+    "summary": "The subject first appears as: Follow-up: new task: measure memory usage by 2026-10-07. Latest explicit date: 2026-10-07.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-07",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_064",
+    "title": "Follow Up Validate Mandatory Queries",
+    "related_message_ids": [
+      "MSG_1035"
+    ],
+    "related_task_event_ids": [
+      "TASK_251"
+    ],
+    "summary": "The subject first appears as: Follow-up: new task: validate the mandatory queries by 2026-10-09. Latest explicit date: 2026-10-09.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-09",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_065",
+    "title": "Test Optimized Assistant In Offline Mode",
+    "related_message_ids": [
+      "DEMO_010"
+    ],
+    "related_task_event_ids": [
+      "TASK_252"
+    ],
+    "summary": "The subject first appears as: New task: test the optimized assistant in offline mode by 2026-10-09. Latest explicit date: 2026-10-09.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-09",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_066",
+    "title": "Latency Review Meeting",
+    "related_message_ids": [
+      "DEMO_011"
+    ],
+    "related_task_event_ids": [
+      "EVENT_176"
+    ],
+    "summary": "The subject first appears as: A new latency-review meeting is scheduled for 2026-10-08 at 11:00 on Google Meet. Latest explicit date: 2026-10-08.",
+    "status": "Pending",
+    "latest_deadline": "2026-10-08",
+    "confidence": 0.65
+  },
+  {
+    "group_id": "GROUP_067",
+    "title": "Complete Onboarding Form Not",
+    "related_message_ids": [
+      "DEMO_021"
+    ],
+    "related_task_event_ids": [
+      "TASK_253"
+    ],
+    "summary": "The subject first appears as: This is another status request about complete the onboarding form, not a new task. Latest state: Completed.",
+    "status": "Completed",
+    "latest_deadline": null,
+    "confidence": 0.65
+  }
+]

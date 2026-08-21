@@ -1,0 +1,52 @@
+{
+  "benchmark_queries": 8,
+  "baseline_keyword_mean_ms": 8.464,
+  "baseline_keyword_p95_ms": 12.024,
+  "optimized_tfidf_mean_ms": 1.524,
+  "optimized_tfidf_p95_ms": 2.04,
+  "index_documents": 1570,
+  "index_vocabulary": 2368,
+  "quality_note": "Retrieval quality is compared using the supplied mandatory queries; production answers still require evidence-grounded structured handling.",
+  "query_comparison": [
+    {
+      "query_id": "DQ01",
+      "baseline_top": "MSG_1026",
+      "optimized_top": "TASK_035"
+    },
+    {
+      "query_id": "DQ02",
+      "baseline_top": "MSG_0408",
+      "optimized_top": "MSG_1058"
+    },
+    {
+      "query_id": "DQ03",
+      "baseline_top": "MSG_0720",
+      "optimized_top": "GROUP_027"
+    },
+    {
+      "query_id": "DQ04",
+      "baseline_top": "MSG_1058",
+      "optimized_top": "MSG_1058"
+    },
+    {
+      "query_id": "DQ05",
+      "baseline_top": "MSG_0840",
+      "optimized_top": "MSG_0840"
+    },
+    {
+      "query_id": "DQ06",
+      "baseline_top": "MSG_0190",
+      "optimized_top": "MSG_1058"
+    },
+    {
+      "query_id": "DQ07",
+      "baseline_top": "MSG_0992",
+      "optimized_top": "MSG_0992"
+    },
+    {
+      "query_id": "DQ08",
+      "baseline_top": "MSG_0387",
+      "optimized_top": "MSG_0387"
+    }
+  ]
+}

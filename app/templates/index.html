@@ -1,0 +1,6 @@
+{% extends "base.html" %}{% block content %}
+<h1>L1 → L2 Message Intelligence</h1><p class="muted">Chronological extension of the original 900-message L1 system.</p>
+<div class="grid"><div class="card"><div class="num">180</div><div class="muted">L2 messages</div></div><div class="card"><div class="num">{{priorities|length}}</div><div class="muted">priority decisions</div></div><div class="card"><div class="num">{{groups|length}}</div><div class="muted">related groups</div></div></div>
+<div class="card"><h2>What changed in L2</h2><p>Existing tasks/events are updated instead of duplicated when later messages change deadlines or status. Priority uses multiple signals. Related messages are grouped chronologically. Search is local and privacy-aware.</p></div>
+<div class="card"><h2>Demo</h2><p>Use <a href="/assistant">Assistant</a> to ask evidence-grounded questions.</p></div>
+{% endblock %}

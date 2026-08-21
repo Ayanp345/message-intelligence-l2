@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+<form method="get">
+  <select name="type" onchange="this.form.submit()">
+    <option value="all" {% if kind=="all" %}selected{% endif %}>all</option>
+    <option value="task" {% if kind=="task" %}selected{% endif %}>task</option>
+    <option value="event" {% if kind=="event" %}selected{% endif %}>event</option>
+  </select>
+</form>
+<div class="card">
+  <table>
+    <tr><th>Item ID</th><th>Type</th><th>Title</th><th>Date / Deadline</th><th>Time</th><th>Person / Location</th><th>Priority</th><th>Source</th></tr>
+    {% for it in items %}
+    <tr>
+      <td>{{ it.item_id }}</td>
+      <td>{{ it.type }}</td>
+      <td>{{ it.title }}</td>
+      <td>{{ it.date or it.deadline or "—" }}</td>
+      <td>{{ it.time or "—" }}</td>
+      <td>{{ it.person or it.location or "—" }}</td>
+      <td>{{ it.priority }}</td>
+      <td class="muted">{{ it.source_message_id }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endblock %}

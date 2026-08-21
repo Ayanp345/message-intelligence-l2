@@ -1,0 +1,458 @@
+[
+  {
+    "query_id": "DQ01",
+    "query": "Which existing task became critical in the demo data?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "TASK_035",
+        "kind": "task_event",
+        "relevance_score": 0.2785
+      },
+      {
+        "doc_id": "TASK_030",
+        "kind": "task_event",
+        "relevance_score": 0.2724
+      },
+      {
+        "doc_id": "MSG_0136",
+        "kind": "message",
+        "relevance_score": 0.2722
+      },
+      {
+        "doc_id": "TASK_039",
+        "kind": "task_event",
+        "relevance_score": 0.2699
+      },
+      {
+        "doc_id": "TASK_154",
+        "kind": "task_event",
+        "relevance_score": 0.2665
+      },
+      {
+        "doc_id": "TASK_094",
+        "kind": "task_event",
+        "relevance_score": 0.2664
+      },
+      {
+        "doc_id": "TASK_190",
+        "kind": "task_event",
+        "relevance_score": 0.2642
+      },
+      {
+        "doc_id": "TASK_226",
+        "kind": "task_event",
+        "relevance_score": 0.2629
+      }
+    ],
+    "answer": "The strongest retrieved evidence is TASK_035 (relevance 0.2785). The evidence is relevant, but I do not have enough structured evidence to safely provide a more specific answer.",
+    "supporting_message_ids": [
+      "MSG_0136"
+    ],
+    "related_task_event_group_ids": [
+      "TASK_035",
+      "TASK_030",
+      "TASK_039",
+      "TASK_154",
+      "TASK_094",
+      "TASK_190",
+      "TASK_226"
+    ],
+    "reason": "Retrieval found relevant evidence, but no validated structured answer handler matched the question."
+  },
+  {
+    "query_id": "DQ02",
+    "query": "Which tasks or meetings were completed or cancelled?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "MSG_1058",
+        "kind": "message",
+        "relevance_score": 0.1943
+      },
+      {
+        "doc_id": "MSG_1063",
+        "kind": "message",
+        "relevance_score": 0.1855
+      },
+      {
+        "doc_id": "MSG_1068",
+        "kind": "message",
+        "relevance_score": 0.1822
+      },
+      {
+        "doc_id": "MSG_1074",
+        "kind": "message",
+        "relevance_score": 0.1547
+      },
+      {
+        "doc_id": "MSG_1078",
+        "kind": "message",
+        "relevance_score": 0.1519
+      },
+      {
+        "doc_id": "MSG_0408",
+        "kind": "message",
+        "relevance_score": 0.1094
+      },
+      {
+        "doc_id": "MSG_0510",
+        "kind": "message",
+        "relevance_score": 0.1058
+      },
+      {
+        "doc_id": "MSG_0501",
+        "kind": "message",
+        "relevance_score": 0.0988
+      }
+    ],
+    "answer": "Completed/cancelled groups include: Reply to client email (Completed), Review the model results (Completed), Email the signed document (Completed), Complete the onboarding form (Completed), Complete Python exercise (Completed), Call the service centre (Completed), Finish test cases (Completed), Prepare the demo video (Completed), Submit weekly report (Completed).",
+    "supporting_message_ids": [
+      "MSG_1058",
+      "MSG_1063",
+      "MSG_1068",
+      "MSG_1074",
+      "MSG_1078",
+      "MSG_0408",
+      "MSG_0510",
+      "MSG_0501"
+    ],
+    "related_task_event_group_ids": [],
+    "reason": "Status is derived from explicit completion/cancellation language."
+  },
+  {
+    "query_id": "DQ03",
+    "query": "Which meeting was rescheduled and what is its latest schedule?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "GROUP_027",
+        "kind": "group",
+        "relevance_score": 0.1846
+      },
+      {
+        "doc_id": "GROUP_006",
+        "kind": "group",
+        "relevance_score": 0.1833
+      },
+      {
+        "doc_id": "GROUP_028",
+        "kind": "group",
+        "relevance_score": 0.1824
+      },
+      {
+        "doc_id": "GROUP_009",
+        "kind": "group",
+        "relevance_score": 0.1821
+      },
+      {
+        "doc_id": "GROUP_030",
+        "kind": "group",
+        "relevance_score": 0.1815
+      },
+      {
+        "doc_id": "GROUP_003",
+        "kind": "group",
+        "relevance_score": 0.1785
+      },
+      {
+        "doc_id": "MSG_0387",
+        "kind": "message",
+        "relevance_score": 0.132
+      },
+      {
+        "doc_id": "MSG_0291",
+        "kind": "message",
+        "relevance_score": 0.1267
+      }
+    ],
+    "answer": "Rescheduled meetings/events: Mentor catch-up (latest date 2026-10-05), Internship orientation (latest date 2026-10-03), Team stand-up (latest date 2026-10-02), Placement briefing (latest date 2026-10-06), Sprint planning (latest date 2026-10-03), Technical interview (latest date 2026-10-04).",
+    "supporting_message_ids": [
+      "MSG_0952",
+      "MSG_0969",
+      "MSG_0953",
+      "MSG_0955",
+      "MSG_0871",
+      "MSG_0954",
+      "MSG_0966",
+      "MSG_0970"
+    ],
+    "related_task_event_group_ids": [
+      "GROUP_003",
+      "GROUP_006",
+      "GROUP_009",
+      "GROUP_027",
+      "GROUP_028",
+      "GROUP_030"
+    ],
+    "reason": "The group state is updated in message chronology; the latest explicit date is retained."
+  },
+  {
+    "query_id": "DQ04",
+    "query": "Which messages contain conflicting or uncertain deadlines?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "MSG_1058",
+        "kind": "message",
+        "relevance_score": 0.2598
+      },
+      {
+        "doc_id": "MSG_1063",
+        "kind": "message",
+        "relevance_score": 0.248
+      },
+      {
+        "doc_id": "MSG_1068",
+        "kind": "message",
+        "relevance_score": 0.2435
+      }
+    ],
+    "answer": "Messages with conflicting or uncertain deadline language include: MSG_1058, MSG_1063, MSG_1068.",
+    "supporting_message_ids": [
+      "MSG_1058",
+      "MSG_1063",
+      "MSG_1068"
+    ],
+    "related_task_event_group_ids": [],
+    "reason": "These messages explicitly mention multiple possible dates or conflict with an earlier instruction."
+  },
+  {
+    "query_id": "DQ05",
+    "query": "Which demo messages must be blocked from external processing?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "MSG_0840",
+        "kind": "message",
+        "relevance_score": 0.1917
+      },
+      {
+        "doc_id": "MSG_0875",
+        "kind": "message",
+        "relevance_score": 0.1914
+      },
+      {
+        "doc_id": "TASK_035",
+        "kind": "task_event",
+        "relevance_score": 0.187
+      },
+      {
+        "doc_id": "TASK_030",
+        "kind": "task_event",
+        "relevance_score": 0.1829
+      },
+      {
+        "doc_id": "MSG_0136",
+        "kind": "message",
+        "relevance_score": 0.1827
+      },
+      {
+        "doc_id": "TASK_039",
+        "kind": "task_event",
+        "relevance_score": 0.1812
+      },
+      {
+        "doc_id": "EVENT_078",
+        "kind": "task_event",
+        "relevance_score": 0.1804
+      },
+      {
+        "doc_id": "TASK_154",
+        "kind": "task_event",
+        "relevance_score": 0.1789
+      }
+    ],
+    "answer": "I don't have sufficient evidence to determine the answer from the local dataset.",
+    "supporting_message_ids": [
+      "MSG_0840",
+      "MSG_0875",
+      "MSG_0136"
+    ],
+    "related_task_event_group_ids": [
+      "TASK_035",
+      "TASK_030",
+      "TASK_039",
+      "EVENT_078",
+      "TASK_154"
+    ],
+    "reason": "No retrieved evidence exceeded the minimum relevance threshold."
+  },
+  {
+    "query_id": "DQ06",
+    "query": "Which message requires confirmation before processing?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "MSG_1058",
+        "kind": "message",
+        "relevance_score": 0.1886
+      },
+      {
+        "doc_id": "MSG_1063",
+        "kind": "message",
+        "relevance_score": 0.1801
+      },
+      {
+        "doc_id": "MSG_1068",
+        "kind": "message",
+        "relevance_score": 0.1768
+      },
+      {
+        "doc_id": "MSG_0974",
+        "kind": "message",
+        "relevance_score": 0.1107
+      },
+      {
+        "doc_id": "MSG_0986",
+        "kind": "message",
+        "relevance_score": 0.1101
+      },
+      {
+        "doc_id": "MSG_0980",
+        "kind": "message",
+        "relevance_score": 0.1099
+      },
+      {
+        "doc_id": "MSG_0976",
+        "kind": "message",
+        "relevance_score": 0.1086
+      },
+      {
+        "doc_id": "MSG_0972",
+        "kind": "message",
+        "relevance_score": 0.1085
+      }
+    ],
+    "answer": "Messages requiring confirmation before processing include: MSG_1040, MSG_1041, MSG_1050, MSG_1051.",
+    "supporting_message_ids": [
+      "MSG_1040",
+      "MSG_1041",
+      "MSG_1050",
+      "MSG_1051"
+    ],
+    "related_task_event_group_ids": [],
+    "reason": "The privacy detector found medium-risk personal or health information and routes it to confirmation."
+  },
+  {
+    "query_id": "DQ07",
+    "query": "What is the latest status of the task referenced by DEMO_016?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "MSG_0992",
+        "kind": "message",
+        "relevance_score": 0.5168
+      },
+      {
+        "doc_id": "MSG_1002",
+        "kind": "message",
+        "relevance_score": 0.5123
+      },
+      {
+        "doc_id": "MSG_0997",
+        "kind": "message",
+        "relevance_score": 0.5043
+      },
+      {
+        "doc_id": "MSG_1007",
+        "kind": "message",
+        "relevance_score": 0.4784
+      },
+      {
+        "doc_id": "MSG_1012",
+        "kind": "message",
+        "relevance_score": 0.4685
+      },
+      {
+        "doc_id": "GROUP_037",
+        "kind": "group",
+        "relevance_score": 0.2974
+      },
+      {
+        "doc_id": "GROUP_004",
+        "kind": "group",
+        "relevance_score": 0.2968
+      },
+      {
+        "doc_id": "GROUP_010",
+        "kind": "group",
+        "relevance_score": 0.2945
+      }
+    ],
+    "answer": "Offline Inference Demo: current status is pending. Latest explicit date is 2026-09-30.",
+    "supporting_message_ids": [
+      "MSG_0992",
+      "MSG_1002",
+      "MSG_0997",
+      "MSG_1007",
+      "MSG_1012"
+    ],
+    "related_task_event_group_ids": [
+      "GROUP_048",
+      "EVENT_171"
+    ],
+    "reason": "The group is built chronologically and its latest state is used."
+  },
+  {
+    "query_id": "DQ08",
+    "query": "Was the compliance form approved by the finance director?",
+    "route": "local",
+    "route_reason": "No high-risk secret or personal-data request was detected; process with the local retrieval index.",
+    "retrieved_evidence": [
+      {
+        "doc_id": "TASK_161",
+        "kind": "task_event",
+        "relevance_score": 0.3128
+      },
+      {
+        "doc_id": "TASK_105",
+        "kind": "task_event",
+        "relevance_score": 0.3082
+      },
+      {
+        "doc_id": "MSG_0585",
+        "kind": "message",
+        "relevance_score": 0.3061
+      },
+      {
+        "doc_id": "TASK_010",
+        "kind": "task_event",
+        "relevance_score": 0.3014
+      },
+      {
+        "doc_id": "TASK_145",
+        "kind": "task_event",
+        "relevance_score": 0.3007
+      },
+      {
+        "doc_id": "TASK_014",
+        "kind": "task_event",
+        "relevance_score": 0.2998
+      },
+      {
+        "doc_id": "TASK_173",
+        "kind": "task_event",
+        "relevance_score": 0.2976
+      },
+      {
+        "doc_id": "TASK_018",
+        "kind": "task_event",
+        "relevance_score": 0.2966
+      }
+    ],
+    "answer": "I don't have sufficient evidence to confirm that the compliance form was approved by the finance director.",
+    "supporting_message_ids": [
+      "MSG_0585"
+    ],
+    "related_task_event_group_ids": [],
+    "reason": "The retrieved messages contain a question about approval, but no message explicitly confirms approval."
+  }
+]

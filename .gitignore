@@ -1,0 +1,8 @@
+# supplied datasets must never be public
+data/private/
+*.csv
+*.zip
+__pycache__/
+*.pyc
+.venv/
+venv/

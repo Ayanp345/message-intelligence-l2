@@ -1,0 +1,14 @@
+{
+  "total_messages": 900,
+  "category_counts": {
+    "meeting_or_event": 170,
+    "action_required": 239,
+    "general_information": 181,
+    "sensitive_information": 100,
+    "personal_information": 100,
+    "promotional": 110
+  },
+  "total_tasks_extracted": 239,
+  "total_events_extracted": 170,
+  "total_sensitive_findings": 100
+}

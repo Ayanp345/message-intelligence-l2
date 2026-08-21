@@ -1,0 +1,1525 @@
+[
+  {
+    "message_id": "MSG_0901",
+    "item_id": "TASK_238",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0902",
+    "item_id": "TASK_228",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0903",
+    "item_id": "TASK_216",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0904",
+    "item_id": "TASK_201",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0905",
+    "item_id": "TASK_235",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0906",
+    "item_id": "TASK_168",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0907",
+    "item_id": "TASK_230",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0908",
+    "item_id": "TASK_236",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0909",
+    "item_id": "TASK_205",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0910",
+    "item_id": "TASK_173",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0911",
+    "item_id": "TASK_236",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0912",
+    "item_id": "TASK_239",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0913",
+    "item_id": "TASK_173",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; it is a follow-up; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0914",
+    "item_id": "TASK_204",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0915",
+    "item_id": "TASK_238",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0916",
+    "item_id": "TASK_173",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0917",
+    "item_id": "TASK_201",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0918",
+    "item_id": "TASK_230",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0919",
+    "item_id": "TASK_201",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0920",
+    "item_id": "TASK_201",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0921",
+    "item_id": "TASK_238",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required",
+      "follow_up"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0922",
+    "item_id": "TASK_228",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0923",
+    "item_id": "TASK_216",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0924",
+    "item_id": "TASK_201",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0925",
+    "item_id": "TASK_235",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0926",
+    "item_id": "TASK_168",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required",
+      "follow_up"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0927",
+    "item_id": "TASK_230",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required",
+      "follow_up"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0928",
+    "item_id": "TASK_236",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0929",
+    "item_id": "TASK_205",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0930",
+    "item_id": "TASK_173",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "confirmation_required",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0931",
+    "item_id": "TASK_223",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0932",
+    "item_id": "TASK_204",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0933",
+    "item_id": "TASK_230",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0934",
+    "item_id": "TASK_210",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0935",
+    "item_id": "TASK_235",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0936",
+    "item_id": "TASK_210",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0937",
+    "item_id": "TASK_227",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0938",
+    "item_id": "TASK_239",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0939",
+    "item_id": "TASK_204",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0941",
+    "item_id": "TASK_227",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; it is a follow-up; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0942",
+    "item_id": "TASK_236",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0943",
+    "item_id": "TASK_204",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; it is a follow-up; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0944",
+    "item_id": "TASK_239",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; it is a follow-up; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0945",
+    "item_id": "TASK_227",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0946",
+    "item_id": "TASK_204",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0947",
+    "item_id": "TASK_223",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; it is a follow-up; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0948",
+    "item_id": "TASK_184",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0949",
+    "item_id": "TASK_222",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0950",
+    "item_id": "TASK_204",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0951",
+    "item_id": null,
+    "priority": "medium",
+    "reason": "the deadline is tomorrow",
+    "signals": [
+      "deadline_tomorrow"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0952",
+    "item_id": "EVENT_160",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0953",
+    "item_id": "EVENT_156",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0954",
+    "item_id": "EVENT_162",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0955",
+    "item_id": "EVENT_156",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0956",
+    "item_id": null,
+    "priority": "low",
+    "reason": "the deadline is within seven days",
+    "signals": [
+      "deadline_within_7_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0957",
+    "item_id": null,
+    "priority": "low",
+    "reason": "the deadline is within seven days",
+    "signals": [
+      "deadline_within_7_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0958",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "future_deadline"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0959",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "future_deadline"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0960",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "future_deadline"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0961",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "future_deadline"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0962",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "future_deadline"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0963",
+    "item_id": null,
+    "priority": "medium",
+    "reason": "the deadline is tomorrow",
+    "signals": [
+      "deadline_tomorrow"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0964",
+    "item_id": null,
+    "priority": "medium",
+    "reason": "the deadline is within three days",
+    "signals": [
+      "deadline_within_3_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0965",
+    "item_id": null,
+    "priority": "medium",
+    "reason": "the deadline is within three days",
+    "signals": [
+      "deadline_within_3_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0966",
+    "item_id": "EVENT_150",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0967",
+    "item_id": "EVENT_124",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0968",
+    "item_id": "EVENT_152",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0969",
+    "item_id": "EVENT_160",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0970",
+    "item_id": "EVENT_150",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0971",
+    "item_id": "TASK_221",
+    "priority": "critical",
+    "reason": "the deadline was already past at message time; the message explicitly marks it urgent",
+    "signals": [
+      "overdue_at_message_time",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0972",
+    "item_id": "TASK_168",
+    "priority": "high",
+    "reason": "the deadline is today",
+    "signals": [
+      "deadline_today",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0973",
+    "item_id": "TASK_235",
+    "priority": "critical",
+    "reason": "the deadline is today; the message explicitly marks it urgent",
+    "signals": [
+      "deadline_today",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0974",
+    "item_id": "TASK_235",
+    "priority": "medium",
+    "reason": "the deadline is tomorrow",
+    "signals": [
+      "deadline_tomorrow"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0975",
+    "item_id": "TASK_201",
+    "priority": "high",
+    "reason": "the deadline is within three days; the message explicitly marks it urgent",
+    "signals": [
+      "deadline_within_3_days",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0976",
+    "item_id": "TASK_168",
+    "priority": "medium",
+    "reason": "the deadline is within three days",
+    "signals": [
+      "deadline_within_3_days",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0977",
+    "item_id": "TASK_227",
+    "priority": "critical",
+    "reason": "the deadline was already past at message time; the message explicitly marks it urgent",
+    "signals": [
+      "overdue_at_message_time",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0978",
+    "item_id": "TASK_222",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0979",
+    "item_id": "TASK_223",
+    "priority": "critical",
+    "reason": "the deadline is today; the message explicitly marks it urgent",
+    "signals": [
+      "deadline_today",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0980",
+    "item_id": "TASK_238",
+    "priority": "medium",
+    "reason": "the deadline is tomorrow",
+    "signals": [
+      "deadline_tomorrow"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0981",
+    "item_id": "TASK_233",
+    "priority": "high",
+    "reason": "the deadline is within three days; the message explicitly marks it urgent",
+    "signals": [
+      "deadline_within_3_days",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0982",
+    "item_id": "TASK_168",
+    "priority": "high",
+    "reason": "the deadline is within three days; it is a follow-up",
+    "signals": [
+      "deadline_within_3_days",
+      "confirmation_required",
+      "follow_up"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0983",
+    "item_id": "TASK_223",
+    "priority": "critical",
+    "reason": "the deadline was already past at message time; the message explicitly marks it urgent",
+    "signals": [
+      "overdue_at_message_time",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0984",
+    "item_id": "TASK_184",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0985",
+    "item_id": "TASK_210",
+    "priority": "critical",
+    "reason": "the deadline is today; the message explicitly marks it urgent",
+    "signals": [
+      "deadline_today",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0986",
+    "item_id": "TASK_201",
+    "priority": "medium",
+    "reason": "the deadline is tomorrow",
+    "signals": [
+      "deadline_tomorrow"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0987",
+    "item_id": "TASK_239",
+    "priority": "low",
+    "reason": "the deadline is within three days; the message explicitly marks it urgent; the item is completed",
+    "signals": [
+      "deadline_within_3_days",
+      "explicit_urgency",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_0988",
+    "item_id": "TASK_204",
+    "priority": "medium",
+    "reason": "the deadline is within three days",
+    "signals": [
+      "deadline_within_3_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0989",
+    "item_id": "TASK_232",
+    "priority": "critical",
+    "reason": "the deadline was already past at message time; the message explicitly marks it urgent",
+    "signals": [
+      "overdue_at_message_time",
+      "explicit_urgency"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0990",
+    "item_id": "TASK_216",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0991",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [],
+    "confidence": 0.55
+  },
+  {
+    "message_id": "MSG_0992",
+    "item_id": "TASK_221",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0993",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [],
+    "confidence": 0.55
+  },
+  {
+    "message_id": "MSG_0994",
+    "item_id": "TASK_228",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_0995",
+    "item_id": "TASK_223",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0996",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [],
+    "confidence": 0.55
+  },
+  {
+    "message_id": "MSG_0997",
+    "item_id": "TASK_228",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_0998",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [],
+    "confidence": 0.55
+  },
+  {
+    "message_id": "MSG_1000",
+    "item_id": "TASK_230",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1001",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [],
+    "confidence": 0.55
+  },
+  {
+    "message_id": "MSG_1002",
+    "item_id": "TASK_168",
+    "priority": "medium",
+    "reason": "the deadline is within three days",
+    "signals": [
+      "deadline_within_3_days",
+      "confirmation_required"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1003",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [],
+    "confidence": 0.55
+  },
+  {
+    "message_id": "MSG_1005",
+    "item_id": "TASK_232",
+    "priority": "high",
+    "reason": "the deadline was already past at message time",
+    "signals": [
+      "overdue_at_message_time"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1006",
+    "item_id": null,
+    "priority": "low",
+    "reason": "it is a follow-up",
+    "signals": [
+      "follow_up"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1007",
+    "item_id": "TASK_221",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1008",
+    "item_id": null,
+    "priority": "low",
+    "reason": "it is a follow-up",
+    "signals": [
+      "follow_up"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1009",
+    "item_id": "TASK_228",
+    "priority": "low",
+    "reason": "the deadline was already past at message time; it is a follow-up; the item is completed",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up",
+      "inactive_completed_or_cancelled"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_1010",
+    "item_id": "TASK_223",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1011",
+    "item_id": null,
+    "priority": "low",
+    "reason": "it is a follow-up",
+    "signals": [
+      "follow_up"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1012",
+    "item_id": "TASK_228",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1013",
+    "item_id": null,
+    "priority": "low",
+    "reason": "it is a follow-up",
+    "signals": [
+      "follow_up"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1015",
+    "item_id": "TASK_230",
+    "priority": "high",
+    "reason": "the deadline was already past at message time; it is a follow-up",
+    "signals": [
+      "overdue_at_message_time",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1016",
+    "item_id": "EVENT_171",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1017",
+    "item_id": "TASK_240",
+    "priority": "medium",
+    "reason": "the deadline is tomorrow",
+    "signals": [
+      "deadline_tomorrow"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1018",
+    "item_id": "TASK_241",
+    "priority": "medium",
+    "reason": "the deadline is within three days",
+    "signals": [
+      "deadline_within_3_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1019",
+    "item_id": "TASK_242",
+    "priority": "medium",
+    "reason": "the deadline is within three days",
+    "signals": [
+      "deadline_within_3_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1020",
+    "item_id": "EVENT_172",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1021",
+    "item_id": "TASK_243",
+    "priority": "low",
+    "reason": "the deadline is within seven days",
+    "signals": [
+      "deadline_within_7_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1022",
+    "item_id": "TASK_244",
+    "priority": "low",
+    "reason": "the deadline is within seven days",
+    "signals": [
+      "deadline_within_7_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1023",
+    "item_id": "TASK_245",
+    "priority": "low",
+    "reason": "the deadline is within seven days",
+    "signals": [
+      "deadline_within_7_days"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1024",
+    "item_id": "EVENT_173",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1025",
+    "item_id": "TASK_246",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "future_deadline"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1026",
+    "item_id": "EVENT_171",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1027",
+    "item_id": "TASK_247",
+    "priority": "high",
+    "reason": "the deadline is today; it is a follow-up",
+    "signals": [
+      "deadline_today",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1028",
+    "item_id": "EVENT_174",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1029",
+    "item_id": "TASK_248",
+    "priority": "medium",
+    "reason": "the deadline is within three days; it is a follow-up",
+    "signals": [
+      "deadline_within_3_days",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1030",
+    "item_id": "EVENT_172",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1031",
+    "item_id": "TASK_249",
+    "priority": "medium",
+    "reason": "the deadline is within seven days; it is a follow-up",
+    "signals": [
+      "deadline_within_7_days",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1032",
+    "item_id": "EVENT_175",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1033",
+    "item_id": "TASK_250",
+    "priority": "medium",
+    "reason": "the deadline is within seven days; it is a follow-up",
+    "signals": [
+      "deadline_within_7_days",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1034",
+    "item_id": "EVENT_173",
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [
+      "event_actionability"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1035",
+    "item_id": "TASK_251",
+    "priority": "low",
+    "reason": "it is a follow-up",
+    "signals": [
+      "future_deadline",
+      "follow_up"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1040",
+    "item_id": null,
+    "priority": "low",
+    "reason": "sensitivity affects handling",
+    "signals": [
+      "sensitive_information"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1050",
+    "item_id": null,
+    "priority": "low",
+    "reason": "it is a follow-up; sensitivity affects handling",
+    "signals": [
+      "follow_up",
+      "sensitive_information"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1056",
+    "item_id": null,
+    "priority": "low",
+    "reason": "the status is explicitly uncertain",
+    "signals": [
+      "uncertain_status"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1057",
+    "item_id": null,
+    "priority": "low",
+    "reason": "the status is explicitly uncertain",
+    "signals": [
+      "confirmation_required",
+      "uncertain_status"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1058",
+    "item_id": null,
+    "priority": "high",
+    "reason": "the deadline is tomorrow; the status is explicitly uncertain",
+    "signals": [
+      "deadline_tomorrow",
+      "uncertain_status"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1061",
+    "item_id": null,
+    "priority": "low",
+    "reason": "it is a follow-up; the status is explicitly uncertain",
+    "signals": [
+      "follow_up",
+      "uncertain_status"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1062",
+    "item_id": null,
+    "priority": "medium",
+    "reason": "it is a follow-up; the status is explicitly uncertain",
+    "signals": [
+      "confirmation_required",
+      "follow_up",
+      "uncertain_status"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_1063",
+    "item_id": null,
+    "priority": "high",
+    "reason": "the deadline is tomorrow; it is a follow-up; the status is explicitly uncertain",
+    "signals": [
+      "deadline_tomorrow",
+      "follow_up",
+      "uncertain_status"
+    ],
+    "confidence": 0.76
+  },
+  {
+    "message_id": "MSG_1066",
+    "item_id": null,
+    "priority": "low",
+    "reason": "the status is explicitly uncertain",
+    "signals": [
+      "uncertain_status"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1067",
+    "item_id": null,
+    "priority": "low",
+    "reason": "the status is explicitly uncertain",
+    "signals": [
+      "confirmation_required",
+      "uncertain_status"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1068",
+    "item_id": null,
+    "priority": "high",
+    "reason": "the deadline is tomorrow; the status is explicitly uncertain",
+    "signals": [
+      "deadline_tomorrow",
+      "uncertain_status"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1069",
+    "item_id": null,
+    "priority": "low",
+    "reason": "the status is explicitly uncertain",
+    "signals": [
+      "uncertain_status"
+    ],
+    "confidence": 0.62
+  },
+  {
+    "message_id": "MSG_1070",
+    "item_id": null,
+    "priority": "medium",
+    "reason": "the message explicitly marks it urgent; the status is explicitly uncertain",
+    "signals": [
+      "explicit_urgency",
+      "uncertain_status"
+    ],
+    "confidence": 0.69
+  },
+  {
+    "message_id": "MSG_1071",
+    "item_id": null,
+    "priority": "low",
+    "reason": "No strong urgency signal was present, so the item remains low priority.",
+    "signals": [],
+    "confidence": 0.55
+  }
+]
