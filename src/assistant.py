@@ -1,9 +1,3 @@
-"""
-assistant.py
-------------
-Evidence-grounded local assistant. It only summarizes retrieved structured
-evidence and refuses unsupported answers.
-"""
 import os,json,re
 from retrieval import LocalRetriever, build_documents, save_index_metadata
 from privacy_router import route_query
