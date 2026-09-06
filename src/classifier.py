@@ -1,32 +1,3 @@
-"""
-classifier.py
---------------
-Classifies a message into one of six categories:
-
-  action_required, meeting_or_event, personal_information,
-  general_information, promotional, sensitive_information
-
-Approach: ordered rule cascade (a decision list), not a statistical
-model. Each rule is a plain regex/keyword check with a human-readable
-reason string attached, and every message gets a confidence score based
-on HOW the rule matched (exact known template vs. weaker keyword-only
-match). This is deliberate: the brief asks candidates to "understand and
-explain everything submitted", and a small ordered rule list is something
-you can walk through, line by line, on camera.
-
-Rule order matters (first match wins), because some content overlaps,
-e.g. a message can both request a reply (action) AND be inside a
-"For today:" wrapper. Order, most-specific-first:
-
-  1. promotional              (marketing code / offer language)
-  2. sensitive_information    (credentials, financial data, health data,
-                                address/phone -> reuses sensitive_detector)
-  3. meeting_or_event         (has a recognised event template)
-  4. action_required          (has a recognised task template)
-  5. personal_information     (soft profile/preference statement)
-  6. general_information      (fallback: a plain informational statement)
-"""
-
 import re
 
 from sensitive_detector import detect_sensitive
