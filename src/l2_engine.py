@@ -1,16 +1,3 @@
-"""
-l2_engine.py
------------
-Extends the original L1 structured outputs with:
-- chronological L2 state updates
-- explainable priority decisions
-- related-message groups
-- privacy routing
-- TF-IDF semantic retrieval
-- evidence-grounded QA records
-
-No supplied dataset is required to be committed to Git.
-"""
 import json, os, re, time
 from datetime import datetime, timedelta
 from collections import defaultdict
