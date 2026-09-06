@@ -1,22 +1,3 @@
-"""
-pipeline.py
------------
-Entry point. Reads the dataset in chronological order (the CSV is already
-sorted by timestamp, we do not re-sort in case of ties -> preserves file
-order) and runs, for every message:
-
-  1. classifier.classify()          -> category + confidence + reason
-  2. extractor.extract()            -> task/event record, or None
-  3. sensitive_detector.build_sensitive_records() -> 0..n sensitive findings
-
-All sensitive VALUES are masked before anything is written to disk, so the
-generated JSON files (which may end up in screenshots/the repo) never
-contain a real secret span, per the assignment's hard requirement.
-
-Usage:
-    python3 pipeline.py <messages.csv> <output_dir>
-"""
-
 import csv
 import json
 import sys
