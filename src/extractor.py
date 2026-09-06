@@ -1,23 +1,3 @@
-"""
-extractor.py
-------------
-Pulls structured task / meeting-event records out of a message.
-
-Design: the dataset (verified by inspecting all 900 rows) is built from a
-small, fixed set of ~20 event sentence templates and ~20 task sentence
-templates, each wrapped in one of a handful of optional prefixes
-("For today:", "FYI:", "Quick update:", etc.). Rather than a black-box
-model, we match each known template with an explicit regex. This keeps
-every extraction traceable to one rule, which is exactly what the
-assignment asks candidates to be able to explain.
-
-Anything that does not match a known template produces NO task/event
-record (we do not guess). Templates with a relative/vague date
-("tomorrow", "next week", "before the meeting") deliberately do NOT
-resolve to a concrete date -> deadline/time is stored as null, exactly as
-the assignment requires ("do not invent missing dates").
-"""
-
 import re
 from datetime import datetime
 
